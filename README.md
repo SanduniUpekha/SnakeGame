@@ -3,6 +3,8 @@
 </p> 
 
 # Snake Game in Java, Python, and JavaScript 🐍🎮🕹️
+![Python](https://img.shields.io/badge/Python-v3.9-blue)
+
 
 🎮 This repository contains the classic Snake Game implemented in Java, Python, and JavaScript using different technologies and libraries. Each version of the Snake Game was inspired by various websites and YouTube videos.
 
