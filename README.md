@@ -34,4 +34,4 @@ Choose the Snake Game version you want to play:
 
 ---
 
-Feel free to explore the code and enjoy playing the Snake Game in different languages! 🐍🎮
+This project has been a great way for me to improve my programming skills. I've taken inspiration from various websites and YouTube videos, trying out the codes they taught and honing my abilities along the way. It's been an exciting journey, and I'm eager to continue my learning and growth in programming. Feel free to explore and play with all three implementations of the Snake Game. Have fun and happy coding! 😄🎉
