@@ -34,8 +34,9 @@ Choose the Snake Game version you want to play:
    - For Python: Run the Python script using your Python interpreter.
    - For JavaScript: Open the HTML file in your web browser to play the game.
 
-<!--📷 Screenshot/GIF:
-![Snake Game Gif](snake_game.gif) -->
+<p align="center">
+  <img src="https://i.gifer.com/yx3.gif" alt="Snake Gif">
+</p> 
 
 ---
 
