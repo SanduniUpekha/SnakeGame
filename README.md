@@ -35,7 +35,7 @@ Choose the Snake Game version you want to play:
    - For JavaScript: Open the HTML file in your web browser to play the game.
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6b/6e/ab/6b6eab4e6f659469f2c552551d833601.gif" alt="Snake Gif" width ="100" height ="100">
+  <img src="https://i.pinimg.com/originals/6b/6e/ab/6b6eab4e6f659469f2c552551d833601.gif" alt="Snake Gif" width ="200" height ="200">
 </p> 
 
 ---
