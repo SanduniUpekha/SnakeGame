@@ -1,6 +1,6 @@
-<!--<p align="center">
-  <img src="snake_game.gif" alt="Snake Game Gif">
-</p> -->
+<p align="center">
+  <img src="https://i0.wp.com/art.pixilart.com/fb74458ef703afa.gif?resize=300%2C300&ssl=1" alt="Snake Game Gif">
+</p> 
 
 # Snake Game in Java, Python, and JavaScript 🐍🎮🕹️
 
