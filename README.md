@@ -6,7 +6,7 @@
 
 🎮 This repository contains the classic Snake Game implemented in Java, Python, and JavaScript using different technologies and libraries. Each version of the Snake Game was inspired by various websites and YouTube videos.
 
-## Languages and Libraries Used 💻:
+## Languages and Technologies Used 💻:
 
 1. **Java Version ☕🕸️**:
    - Java: The primary programming language for the Java version.
